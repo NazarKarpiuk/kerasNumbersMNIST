@@ -1,1 +1,1 @@
-# kerasNumbersMNIST
+# MNIST (digit prediction) test model
